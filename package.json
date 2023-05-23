@@ -1,0 +1,26 @@
+{
+  "name": "10_logo-generator",
+  "version": "1.0.0",
+  "description": "[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luxardOri/logo-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luxardOri/logo-generator/issues"
+  },
+  "homepage": "https://github.com/luxardOri/logo-generator#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}

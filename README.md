@@ -3,7 +3,7 @@
 
 ## Description
 
-Using the command line, create a logo generator. Will be using TDD method of creating this program.
+Create a logo generator and use command line to run the generator. Will be using TDD method of creating this program.
 
 ## Table of Contents
 
@@ -56,7 +56,5 @@ For more information, please refer to <https://unlicense.org>
 will include later
 
 ## Questions
-
-For any questions please contact test@test.com.
 
 You can find me on gitHub at https://github.com/luxardOri.
