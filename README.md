@@ -9,20 +9,43 @@ Create a logo generator and use command line to run the generator. Will be using
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Walkthrough Video](#walkthrough-video)
 - [Credits](#credits)
 - [License](#license)
+
     
 ## Installation
 
-Will include later
+To install necessary node moddules, please run:
+
+```md
+npm i
+```
 
 ## Usage
 
-will include later
+To use the logo generator, please run:
+
+```md
+node index.js
+```
+
+To make sure code is running correctly, please run:
+
+```md
+npm test
+```
+
+## Walkthrough Video
+
+![walkthrough](assets/images/logo_generator.gif)
 
 ## Credits
 
-will include later
+SVG Basic Shapes: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes  
+SVG Tutorials: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial  
+Referenced back to activites, primarily setting up classes and setting up jest tests  
+Tutoring help (Erik Hirsch)
 
 ## License
         
@@ -50,10 +73,6 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org>
-
-## Tests
-
-will include later
 
 ## Questions
 
